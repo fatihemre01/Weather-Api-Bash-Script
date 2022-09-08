@@ -1,2 +1,2 @@
 # Weather-Api-Bash-Script
-A bash script that get you weather informations using API.
+A bash script that gives you weather information using API.
